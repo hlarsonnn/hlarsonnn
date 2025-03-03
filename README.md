@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hlarsonnn&label=Profile%20views&color=0e75b6&style=flat" alt="My profile views. Fix your WiFi." /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hlarsonnn" alt="Dude, I said fix your WiFi." /></a> </p>
+
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlarsonnn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlarsonnn&layout=pie)](https://github.com)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adaves1&" alt="adaves1" /></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3200&pause=500&color=00B0F7&center=true&vCenter=true&width=435&lines=Stop+reading)](https://git.io/typing-svg)
 
 <!--
 **hlarsonnn/hlarsonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
