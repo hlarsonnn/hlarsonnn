@@ -5,7 +5,7 @@
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlarsonnn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlarsonnn&layout=pie)](https://github.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adaves1&" alt="adaves1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlarsonnn&" alt="WIFI, WIFI, WIFI" /></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3200&pause=500&color=00B0F7&center=true&vCenter=true&width=435&lines=Stop+reading)](https://git.io/typing-svg)
 
